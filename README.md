@@ -6,6 +6,6 @@ Open up android -> app -> src -> main -> AndroidManifest.xml and add your Maps A
  <meta-data android:name="com.google.android.geo.API_KEY"
                android:value="yourkeyhere"/>
  ## Add Package Name
-Add Package name in build.gradle
+Add Package name in build.gradle.
 Add the package name in AndroidManifest.xml file
 
